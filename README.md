@@ -12,7 +12,7 @@ conda env create -f envs/rbio.yaml
 conda activate rbio
 ``` 
 3. Start R terminal 
-4. Install 1) devtools + MatrixEQTL and 2) `IlluminaHumanMethylationEPICanno.ilm10b2.hg19` (or other annotation template)
+4. Install 1) devtools + MatrixEQTL and 2) annotation template
 ```
 # matrixEQTL
 install.packages("devtools")
