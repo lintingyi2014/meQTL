@@ -1,6 +1,5 @@
 # General
-
-## Use snakefile as main pipeline and defines paths for files and directives 
+Use snakefile as main pipeline and defines paths for files and directives 
 
 ## Conda environment 
 Run pipeline in Conda specified env 
