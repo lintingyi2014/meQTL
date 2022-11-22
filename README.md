@@ -21,7 +21,7 @@ devtools::install_github("andreyshabalin/MatrixEQTL")
 BiocManager::install("IlluminaHumanMethylationEPICanno.ilm10b2.hg19")
 ```
 ## Configuration
-You may change the thresholds and cut-offs at 'configs/workflow.json'
+You may change the thresholds and cut-offs at `configs/workflow.json`
 * `maf` : the minor allele frequency threshold   
 > Converting impute2 genotypes to dosages.
 * `post_maf` : the minor allele frequency threshold to be applied after matrixEQTL has been run.  
